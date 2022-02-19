@@ -1,0 +1,1 @@
+BBDD=mongodb+srv://<user>:<pass>@snapin.ev2t7.mongodb.net/<databasename>?retryWrites=true&w=majority

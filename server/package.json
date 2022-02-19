@@ -1,0 +1,16 @@
+{
+  "name": "snapin-server",
+  "version": "1.0.0",
+  "description": "Server side snapin app",
+  "main": "index.js",
+  "author": "Jose Ibañez",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.6.3",
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.2.2"
+  }
+}
